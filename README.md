@@ -1,4 +1,6 @@
 # 💳 Autonomous Real-Time Financial Fraud Detection System
+https://huggingface.co/spaces/Mangai2024/real-time-fraud-detection
+
 
 An end-to-end machine learning system for detecting financial fraud in real time, integrated with explainable AI techniques and deployed as a cloud-based interactive web application.
 
@@ -111,7 +113,7 @@ This ensures interpretability and supports trustworthy AI decision-making.
 ## 🌐 Live Application
 
 Public Deployment Link:
-👉 (Add your Hugging Face URL here)
+👉 ([Add your Hugging Face URL her](https://huggingface.co/spaces/Mangai2024/real-time-fraud-detection)
 
 ---
 
